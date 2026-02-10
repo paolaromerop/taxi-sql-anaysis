@@ -1,4 +1,4 @@
-<img src="taxi.png">
+<img src="taxi.png" width="200">
 
 # Análisis de viajes en Taxi – SQL Case Study
 
