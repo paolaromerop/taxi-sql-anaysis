@@ -1,4 +1,4 @@
-![Análisis Taxi](images/taxi.png)
+![Análisis Taxi](taxi.png)
 
 # Análisis de viajes en Taxi – SQL Case Study
 
