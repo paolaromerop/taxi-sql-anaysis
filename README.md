@@ -1,4 +1,4 @@
-![Análisis Taxi](taxi.png)
+<img src="taxi.png">
 
 # Análisis de viajes en Taxi – SQL Case Study
 
